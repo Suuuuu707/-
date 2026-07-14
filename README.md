@@ -54,15 +54,6 @@
 
 ---
 
-### 🐍 贡献图贪吃蛇 / Contribution Snake
-
-<div align="center">
-
-<!-- 贪吃蛇动画 (由 GitHub Action 自动生成) -->
-![Snake animation](https://raw.githubusercontent.com/sunZshanY/-/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ---
 
 ### 👀 个人主页访问量 / Profile Views
